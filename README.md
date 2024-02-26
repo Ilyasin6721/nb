@@ -1,4 +1,10 @@
 # NB
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xBe7f27895c64D1d52555bf7b8Be711A33DdF85B9'
+quorum: 1
 
 
 > Please install `nb` with `pip install nbnb`, the `nb` name was taken already, so we using `nbnb` instead!
